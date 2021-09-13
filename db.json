@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "name": "User 5",
+      "age": "30",
+      "pan": "ASDF2948ED",
+      "email": "usermail@gmail.com",
+      "gender": "male",
+      "city": "new delhi",
+      "id": 2
+    },
+    {
+      "name": "User 2",
+      "pan": "AW85N8D23D",
+      "age": "20",
+      "gender": "Female",
+      "email": "some@mail.com",
+      "city": "kal bataunga",
+      "id": 4
+    },
+    {
+      "name": "user test",
+      "pan": "SAFVASAWFWF",
+      "age": "23",
+      "gender": "Male",
+      "email": "usertest@mail.com",
+      "city": "Vaishali",
+      "id": 5
+    }
+  ]
+}

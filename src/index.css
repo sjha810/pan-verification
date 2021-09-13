@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	height: 100%;
+}
+#root {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+}
+form {
+	transform: translate(10%, 10%);
+}
+
+@media only screen and (max-width: 768px) {
+	form {
+		margin-bottom: 5rem;
+		margin-left: 1rem;
+	}
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
